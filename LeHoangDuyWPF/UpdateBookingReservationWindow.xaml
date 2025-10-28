@@ -1,0 +1,61 @@
+﻿<Window x:Class="LeHoangDuyWPF.UpdateBookingReservationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeHoangDuyWPF"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="UpdateBookingReservationWindow" Height="450" Width="800">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0 8">
+            <Label Content="Booking Reservation Id" Width="120"/>
+            <TextBox x:Name="txtReservationId" Width="200" IsReadOnly="True"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0 5">
+            <Label Content="Customer" Width="120"/>
+            <ComboBox x:Name="CbCustomer"
+              Width="200"
+              DisplayMemberPath="CustomerFullName"
+              SelectedValuePath="CustomerId"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0 5">
+            <Label Content="Booking Status" Width="120"/>
+            <ComboBox x:Name="CbStatus"
+              Width="200"
+              SelectedValuePath="Tag">  
+                <ComboBoxItem Content="Active" Tag="1"/>
+                <ComboBoxItem Content="Unactive" Tag="0"/>
+            </ComboBox>
+        </StackPanel>
+        <!-- Room -->
+        <StackPanel Orientation="Horizontal" Margin="0 5">
+            <Label Content="Rooms" Width="120"/>
+            <ListBox x:Name="LbRooms"
+         Width="200"
+         Height="120"
+         SelectionMode="Multiple"
+         DisplayMemberPath="RoomNumber"
+         SelectedValuePath="RoomId"/>
+        </StackPanel>
+
+        <!-- Start Date -->
+        <StackPanel Orientation="Horizontal" Margin="0 5">
+            <Label Content="Start Date" Width="120"/>
+            <DatePicker x:Name="DpStartDate" Width="200"/>
+        </StackPanel>
+
+        <!-- End Date -->
+        <StackPanel Orientation="Horizontal" Margin="0 5">
+            <Label Content="End Date" Width="120"/>
+            <DatePicker x:Name="DpEndDate" Width="200"/>
+        </StackPanel>
+        <Button x:Name="BtnUpdateRoom"
+    Content="Update"
+    Width="120"
+    Height="35"
+    Margin="0 15 0 0"
+    HorizontalAlignment="Center"
+    Click="BtnUpdateRoom_Click"/>
+    </StackPanel>
+</Window>

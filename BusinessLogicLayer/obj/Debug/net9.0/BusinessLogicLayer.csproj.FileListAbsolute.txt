@@ -1,0 +1,15 @@
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.deps.json
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.dll
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\bin\Debug\net9.0\BusinessLogicLayer.pdb
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.dll
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\refint\BusinessLogicLayer.dll
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.pdb
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\ref\BusinessLogicLayer.dll
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\Business.450209FB.Up2Date

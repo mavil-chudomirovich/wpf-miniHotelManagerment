@@ -1,0 +1,62 @@
+﻿<Window x:Class="LeHoangDuyWPF.UpdateCustomerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeHoangDuyWPF"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="UpdateCustomerWindow" Height="450" Width="800">
+    <StackPanel>
+
+        <StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0 8">
+                <Label Content="Customer Id" Width="120"/>
+                <TextBox x:Name="txtId" Width="200" IsReadOnly="True"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0 8">
+                <Label Content="FullName" Width="120"/>
+                <TextBox x:Name="txtFullName" Width="200"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0 8">
+                <Label Content="Telephone" Width="120"/>
+                <TextBox x:Name="txtTelephone" Width="200"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0 8">
+                <Label Content="EmailAddress" Width="120"/>
+                <TextBox x:Name="txtEmailAddress" Width="200"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0 8">
+                <Label Content="Status" Width="120"/>
+                <TextBox x:Name="txtStatus" Width="200"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0 8">
+                <Label Content="Birthday" Width="120"/>
+                <DatePicker x:Name="DatePickerBirthday"
+                        Width="200"
+                        SelectedDate="{x:Static sys:DateTime.Now}"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0 8">
+                <Label Content="Password" Width="120"/>
+                <PasswordBox x:Name="pbPassword" Width="200"/>
+            </StackPanel>
+
+            <Button x:Name="BtnUpdate"
+                Content="Update"
+                Width="120"
+                Height="35"
+                HorizontalAlignment="Center"
+                Margin="0 15 0 0"
+                Click="BtnUpdate_Click"/>
+        </StackPanel>
+    </StackPanel>
+
+</Window>

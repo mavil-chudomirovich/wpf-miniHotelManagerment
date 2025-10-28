@@ -1,0 +1,133 @@
+﻿<Window x:Class="LeHoangDuyWPF.CustomerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeHoangDuyWPF"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="CustomerWindow" Height="450" Width="800">
+    <ScrollViewer VerticalScrollBarVisibility="Auto"
+           HorizontalScrollBarVisibility="Disabled">
+        <StackPanel>
+            <TextBlock Text="User Profile"
+             FontSize="22"
+             FontWeight="Bold"
+             Margin="0 10"
+             />
+            <StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 8">
+                    <Label Content="Customer Id" Width="120"/>
+                    <TextBox x:Name="txtId" Width="200" IsReadOnly="True"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 8">
+                    <Label Content="FullName" Width="120"/>
+                    <TextBox x:Name="txtFullName" Width="200"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 8">
+                    <Label Content="Telephone" Width="120"/>
+                    <TextBox x:Name="txtTelephone" Width="200"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 8">
+                    <Label Content="EmailAddress" Width="120"/>
+                    <TextBox x:Name="txtEmailAddress" Width="200"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 8">
+                    <Label Content="Status" Width="120"/>
+                    <TextBox x:Name="txtStatus" Width="200"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 8">
+                    <Label Content="Birthday" Width="120"/>
+                    <DatePicker x:Name="DatePickerBirthday"
+            Width="200"
+            SelectedDate="{x:Static sys:DateTime.Now}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 8">
+                    <Label Content="Password" Width="120"/>
+                    <PasswordBox x:Name="pbPassword" Width="200"/>
+                </StackPanel>
+
+                <Button x:Name="BtnUpdate"
+                Content="Update"
+                Width="120"
+                Height="35"
+                Click="BtnUpdate_Click"/>
+            </StackPanel>
+            <TextBlock Text="Booking History"
+             FontSize="22"
+             FontWeight="Bold"
+             Margin="0 10"
+             />
+            <DataGrid x:Name="dgBooking"
+            AutoGenerateColumns="False"
+            RowDetailsVisibilityMode="VisibleWhenSelected"
+            Margin="10">
+
+                <!-- Cột của BookingReservation -->
+                <DataGrid.Columns>
+                    <DataGridTextColumn x:Name="bookingIdShow" Header="Booking ID" Binding="{Binding BookingReservationId}" Width="*"/>
+                    <DataGridTextColumn Header="Customer" Binding="{Binding Customer.CustomerFullName}" Width="*"/>
+                    <DataGridTextColumn Header="Booking Date" Binding="{Binding BookingDate}" Width="*"/>
+                    <DataGridTextColumn Header="Total Price" Binding="{Binding TotalPrice}" Width="*"/>
+                    <DataGridTextColumn Header="Status" Binding="{Binding BookingStatus}" Width="*"/>
+                </DataGrid.Columns>
+
+
+
+                <DataGrid.RowDetailsTemplate>
+                    <DataTemplate>
+                        <Border BorderThickness="1" BorderBrush="Gray" Padding="5" Margin="5">
+                            <DataGrid x:Name="dgBookingDetail"
+                ItemsSource="{Binding BookingDetails}"
+                AutoGenerateColumns="False"
+                HeadersVisibility="Column">
+
+                                <DataGrid.Columns>
+
+                                    <DataGridTextColumn Header="Room ID"
+                                  Binding="{Binding Room.RoomId}" Width="100"/>
+
+                                    <DataGridTextColumn Header="Room Number"
+                                  Binding="{Binding Room.RoomNumber}" Width="100"/>
+
+                                    <DataGridTextColumn Header="Detail"
+                                  Binding="{Binding Room.RoomDetailDescription}" Width="100"/>
+
+                                    <DataGridTextColumn Header="Type"
+                                  Binding="{Binding Room.RoomType.RoomTypeName}" Width="100"/>
+
+                                    <DataGridTextColumn Header="Status"
+                                  Binding="{Binding Room.RoomStatus}" Width="100"/>
+
+                                    <DataGridTextColumn Header="Price/Day"
+                                  Binding="{Binding Room.RoomPricePerDay}" Width="100"/>
+
+                                    <DataGridTextColumn Header="Start"
+                                  Binding="{Binding StartDate}" Width="100"/>
+
+                                    <DataGridTextColumn Header="End"
+                                  Binding="{Binding EndDate}" Width="100"/>
+
+                                    <DataGridTextColumn Header="Actual Price"
+                                  Binding="{Binding ActualPrice}" Width="100"/>
+
+                                </DataGrid.Columns>
+
+                            </DataGrid>
+                        </Border>
+
+                    </DataTemplate>
+                </DataGrid.RowDetailsTemplate>
+
+            </DataGrid>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

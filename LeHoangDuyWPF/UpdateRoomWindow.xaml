@@ -1,0 +1,56 @@
+﻿<Window x:Class="LeHoangDuyWPF.UpdateRoomWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeHoangDuyWPF"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="UpdateRoomWindow" Height="450" Width="800">
+    <StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0 8">
+            <Label Content="Room ID" Width="150"/>
+            <TextBox x:Name="txtRoomId" Width="200" IsReadOnly="True"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0 8">
+            <Label Content="RoomNumber" Width="150"/>
+            <TextBox x:Name="txtRoomNumber" Width="200"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0 8">
+            <Label Content="RoomDetailDescription" Width="150"/>
+            <TextBox x:Name="txtRoomDetailDescription" Width="200"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0 8">
+            <Label Content="RoomMaxCapacity" Width="150"/>
+            <TextBox x:Name="txtRoomMaxCapacity" Width="200"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0 8">
+            <Label Content="RoomType" Width="150"/>
+            <ComboBox x:Name="cbxRoomType" Width="200"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0 8">
+            <Label Content="RoomStatus" Width="150"/>
+            <TextBox x:Name="txtRoomStatus" Width="200"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0 8">
+            <Label Content="RoomPricePerDay" Width="150"/>
+            <TextBox x:Name="txtRoomPricePerDay" Width="200"/>
+        </StackPanel>
+
+        <Button x:Name="BtnUpdateRoom"
+            Content="Update"
+            Width="120"
+            Height="35"
+            Margin="0 15 0 0"
+            HorizontalAlignment="Center"
+            Click="BtnUpdateRoom_Click"/>
+    </StackPanel>
+
+</Window>
