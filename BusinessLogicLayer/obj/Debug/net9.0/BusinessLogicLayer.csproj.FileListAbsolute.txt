@@ -13,3 +13,4 @@ D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\Busines
 D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\bin\Debug\net9.0\DataAccessLayer.pdb
 D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.csproj.AssemblyReference.cache
 D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\Business.450209FB.Up2Date
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\BusinessLogicLayer\obj\Debug\net9.0\BusinessLogicLayer.sourcelink.json

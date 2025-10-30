@@ -73,3 +73,4 @@ D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\TestCon
 D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\TestConnection\bin\Debug\net9.0\DataAccessLayer.pdb
 D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\TestConnection\obj\Debug\net9.0\TestConnection.csproj.AssemblyReference.cache
 D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\TestConnection\obj\Debug\net9.0\TestConn.911B57B2.Up2Date
+D:\Education\FPT_EDUCATION\FPTCN5\PRN212\StudyCode\LeHoangDuy_SE1822_A02\TestConnection\obj\Debug\net9.0\TestConnection.sourcelink.json

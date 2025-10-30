@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstraction
 {
-    public interface IRoomInfomationRepository
+    public interface IRoomInformationRepository
     {
         Task<IEnumerable<RoomInformation>> GetAllAsync();
         Task CreateAsync(RoomInformation room);

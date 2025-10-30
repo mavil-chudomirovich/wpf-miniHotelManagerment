@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\createbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\createbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\updatebookingreservationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\updatebookingreservationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77574242-53FB-437D-8A8D-969344570CC3}|TestConnection\\TestConnection.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\testconnection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77574242-53FB-437D-8A8D-969344570CC3}|TestConnection\\TestConnection.csproj|solutionrelative:testconnection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711A88C3-0D15-4651-B856-D24001713CE2}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\businesslogiclayer\\services\\roominformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711A88C3-0D15-4651-B856-D24001713CE2}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\roominformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{711A88C3-0D15-4651-B856-D24001713CE2}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\businesslogiclayer\\services\\bookingreservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\updatecustomerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,16 +111,8 @@
       "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\updatebookingreservationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\updatebookingreservationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\updatebookingreservationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\createbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\createbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|d:\\education\\fpt_education\\fptcn5\\prn212\\studycode\\lehoangduy_se1822_a02\\lehoangduywpf\\createbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{24B35DBD-0B7A-40CF-BEA5-62FE39A11479}|LeHoangDuyWPF\\LeHoangDuyWPF.csproj|solutionrelative:lehoangduywpf\\createbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,43 +138,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\App.xaml",
-              "RelativeDocumentMoniker": "LeHoangDuyWPF\\App.xaml",
-              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\App.xaml",
-              "RelativeToolTip": "LeHoangDuyWPF\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-28T16:15:34.92Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\appsettings.json",
+              "RelativeDocumentMoniker": "LeHoangDuyWPF\\appsettings.json",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\appsettings.json",
+              "RelativeToolTip": "LeHoangDuyWPF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T13:53:24.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "UpdateCustomerWindow.xaml",
-              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateCustomerWindow.xaml",
-              "RelativeDocumentMoniker": "LeHoangDuyWPF\\UpdateCustomerWindow.xaml",
-              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateCustomerWindow.xaml",
-              "RelativeToolTip": "LeHoangDuyWPF\\UpdateCustomerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-28T15:56:56.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "CustomerWindow.xaml",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\CustomerWindow.xaml",
               "RelativeDocumentMoniker": "LeHoangDuyWPF\\CustomerWindow.xaml",
               "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\CustomerWindow.xaml",
               "RelativeToolTip": "LeHoangDuyWPF\\CustomerWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-28T15:56:14.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:56:14.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "CustomerWindow.xaml.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\CustomerWindow.xaml.cs",
               "RelativeDocumentMoniker": "LeHoangDuyWPF\\CustomerWindow.xaml.cs",
@@ -166,12 +170,11 @@
               "RelativeToolTip": "LeHoangDuyWPF\\CustomerWindow.xaml.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAkwDgAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:55:35.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:55:35.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "LeHoangDuyWPF\\LoginWindow.xaml.cs",
@@ -179,24 +182,22 @@
               "RelativeToolTip": "LeHoangDuyWPF\\LoginWindow.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:55:50.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:55:50.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "LeHoangDuyWPF\\LoginWindow.xaml",
               "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\LoginWindow.xaml",
               "RelativeToolTip": "LeHoangDuyWPF\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-28T15:55:48.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:55:48.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "IBookingReservationService.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\BusinessLogicLayer\\Abstraction\\IBookingReservationService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Abstraction\\IBookingReservationService.cs",
@@ -204,12 +205,69 @@
               "RelativeToolTip": "BusinessLogicLayer\\Abstraction\\IBookingReservationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:52:08.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:52:08.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
+              "Title": "CreateBookingWindow.xaml",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\CreateBookingWindow.xaml",
+              "RelativeDocumentMoniker": "LeHoangDuyWPF\\CreateBookingWindow.xaml",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\CreateBookingWindow.xaml",
+              "RelativeToolTip": "LeHoangDuyWPF\\CreateBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T14:44:07.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBookingReservationWindow.xaml",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml",
+              "RelativeDocumentMoniker": "LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml",
+              "RelativeToolTip": "LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T14:59:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomInformationService.cs",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\BusinessLogicLayer\\Services\\RoomInformationService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\RoomInformationService.cs",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\BusinessLogicLayer\\Services\\RoomInformationService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\RoomInformationService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:32:31.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LeHoangDuyWPF\\App.xaml.cs",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\App.xaml.cs",
+              "RelativeToolTip": "LeHoangDuyWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:42:33.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\TestConnection\\appsettings.json",
+              "RelativeDocumentMoniker": "TestConnection\\appsettings.json",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\TestConnection\\appsettings.json",
+              "RelativeToolTip": "TestConnection\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T13:53:20.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "BookingReservation.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\DataAccessLayer\\Entities\\BookingReservation.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\BookingReservation.cs",
@@ -217,12 +275,56 @@
               "RelativeToolTip": "DataAccessLayer\\Entities\\BookingReservation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:50:47.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:50:47.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 7,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "LeHoangDuyWPF\\AdminWindow.xaml",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\AdminWindow.xaml",
+              "RelativeToolTip": "LeHoangDuyWPF\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T15:08:43.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LeHoangDuyWPF\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "LeHoangDuyWPF\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:03:40.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateCustomerWindow.xaml",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "LeHoangDuyWPF\\UpdateCustomerWindow.xaml",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateCustomerWindow.xaml",
+              "RelativeToolTip": "LeHoangDuyWPF\\UpdateCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T15:56:56.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\App.xaml",
+              "RelativeDocumentMoniker": "LeHoangDuyWPF\\App.xaml",
+              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\App.xaml",
+              "RelativeToolTip": "LeHoangDuyWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T16:15:34.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "IBookingDetailRepository.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\DataAccessLayer\\Abstraction\\IBookingDetailRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstraction\\IBookingDetailRepository.cs",
@@ -230,12 +332,11 @@
               "RelativeToolTip": "DataAccessLayer\\Abstraction\\IBookingDetailRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:46:57.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:46:57.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "BookingDetail.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\DataAccessLayer\\Entities\\BookingDetail.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\BookingDetail.cs",
@@ -243,12 +344,11 @@
               "RelativeToolTip": "DataAccessLayer\\Entities\\BookingDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:38:27.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:38:27.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\DataAccessLayer\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CustomerRepository.cs",
@@ -256,12 +356,11 @@
               "RelativeToolTip": "DataAccessLayer\\Repositories\\CustomerRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:12:24.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:12:24.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\BusinessLogicLayer\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\CustomerService.cs",
@@ -269,12 +368,11 @@
               "RelativeToolTip": "BusinessLogicLayer\\Services\\CustomerService.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAmwCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:12:10.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:12:10.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "BookingDetailService.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\BusinessLogicLayer\\Services\\BookingDetailService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\BookingDetailService.cs",
@@ -282,37 +380,11 @@
               "RelativeToolTip": "BusinessLogicLayer\\Services\\BookingDetailService.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAIA8wCQAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:12:08.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:12:08.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdminWindow.xaml",
-              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\AdminWindow.xaml",
-              "RelativeDocumentMoniker": "LeHoangDuyWPF\\AdminWindow.xaml",
-              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\AdminWindow.xaml",
-              "RelativeToolTip": "LeHoangDuyWPF\\AdminWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-28T15:08:43.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\AdminWindow.xaml.cs",
-              "RelativeDocumentMoniker": "LeHoangDuyWPF\\AdminWindow.xaml.cs",
-              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\AdminWindow.xaml.cs",
-              "RelativeToolTip": "LeHoangDuyWPF\\AdminWindow.xaml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDAAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:03:40.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "BookingDetailRepository.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\DataAccessLayer\\Repositories\\BookingDetailRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\BookingDetailRepository.cs",
@@ -320,12 +392,11 @@
               "RelativeToolTip": "DataAccessLayer\\Repositories\\BookingDetailRepository.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAQwDwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:04:07.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:04:07.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "BookingReservationRepository.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\DataAccessLayer\\Repositories\\BookingReservationRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\BookingReservationRepository.cs",
@@ -333,12 +404,11 @@
               "RelativeToolTip": "DataAccessLayer\\Repositories\\BookingReservationRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:03:59.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:03:59.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "UpdateCustomerWindow.xaml.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateCustomerWindow.xaml.cs",
               "RelativeDocumentMoniker": "LeHoangDuyWPF\\UpdateCustomerWindow.xaml.cs",
@@ -346,12 +416,11 @@
               "RelativeToolTip": "LeHoangDuyWPF\\UpdateCustomerWindow.xaml.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwDsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:02:27.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:02:27.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "CreateBookingWindow.xaml.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\CreateBookingWindow.xaml.cs",
               "RelativeDocumentMoniker": "LeHoangDuyWPF\\CreateBookingWindow.xaml.cs",
@@ -359,36 +428,11 @@
               "RelativeToolTip": "LeHoangDuyWPF\\CreateBookingWindow.xaml.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T15:01:55.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T15:01:55.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UpdateBookingReservationWindow.xaml",
-              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml",
-              "RelativeDocumentMoniker": "LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml",
-              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml",
-              "RelativeToolTip": "LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-28T14:59:18.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateBookingWindow.xaml",
-              "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\CreateBookingWindow.xaml",
-              "RelativeDocumentMoniker": "LeHoangDuyWPF\\CreateBookingWindow.xaml",
-              "ToolTip": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\CreateBookingWindow.xaml",
-              "RelativeToolTip": "LeHoangDuyWPF\\CreateBookingWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-28T14:44:07.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "BookingReservationService.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\BusinessLogicLayer\\Services\\BookingReservationService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\BookingReservationService.cs",
@@ -396,12 +440,11 @@
               "RelativeToolTip": "BusinessLogicLayer\\Services\\BookingReservationService.cs",
               "ViewState": "AgIAAIgAAAAAAAAAAAAqwJMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T14:35:31.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T14:35:31.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "IBookingDetailService.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\BusinessLogicLayer\\Abstraction\\IBookingDetailService.cs",
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Abstraction\\IBookingDetailService.cs",
@@ -409,12 +452,11 @@
               "RelativeToolTip": "BusinessLogicLayer\\Abstraction\\IBookingDetailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAvwA4AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T14:35:28.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T14:35:28.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "UpdateBookingReservationWindow.xaml.cs",
               "DocumentMoniker": "D:\\Education\\FPT_EDUCATION\\FPTCN5\\PRN212\\StudyCode\\LeHoangDuy_SE1822_A02\\LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml.cs",
               "RelativeDocumentMoniker": "LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml.cs",
@@ -422,8 +464,7 @@
               "RelativeToolTip": "LeHoangDuyWPF\\UpdateBookingReservationWindow.xaml.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAwEEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T14:35:19.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T14:35:19.764Z"
             }
           ]
         }

@@ -1,7 +1,6 @@
 ﻿using BusinessLogicLayer.Abstraction;
 using BusinessLogicLayer.Constant;
 using DataAccessLayer.Abstraction;
-using DataAccessLayer.Constant;
 using DataAccessLayer.Entities;
 using DataAccessLayer.Repositories;
 using System;
@@ -14,12 +13,12 @@ namespace BusinessLogicLayer.Services
 {
     public class RoomInformationService : IRoomInformationService
     {
-        private readonly IRoomInfomationRepository _roomInfomationRepository;
+        private readonly IRoomInformationRepository _roomInfomationRepository;
         private readonly IRoomtypeRepository _roomtypeRepository;
         private readonly IBookingDetailRepository _bookingDetailRepository;
         public RoomInformationService()
         {
-            _roomInfomationRepository = new RoomInfomationRepository();
+            _roomInfomationRepository = new RoomInformationRepository();
             _roomtypeRepository = new RoomTypeRepository();
             _bookingDetailRepository = new BookingDetailRepository();
         }

@@ -10,10 +10,10 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Repositories
 {
-    public class RoomInfomationRepository : IRoomInfomationRepository
+    public class RoomInformationRepository : IRoomInformationRepository
     {
         private readonly IFuminiHotelManagementContext _dbContext;
-        public RoomInfomationRepository()
+        public RoomInformationRepository()
         {
             _dbContext = new FuminiHotelManagementContext();
         }
